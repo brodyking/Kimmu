@@ -1,0 +1,23 @@
+<h1 style='font-family: Garamond, serif;margin:0px;'><purple>Help Docs</purple></h1>
+Welcome to the help docs! This applet will teach you how to use the operating system to its full potential.
+<br><br>
+<h2 style='font-family: Garamond, serif;margin:0px;'><highlight>Navigation</highlight></h2>Opening a app is as simple as clicking the manager button at the top and selecting a program. The currently selected window will show up at the top middle. To close a window, click ESC or use the terminal command.
+<br><br>
+<h2 style='font-family: Garamond, serif;margin:0px;'><highlight>The Terminal</highlight></h2>The terminal is a easy way to work the system without a GUI. It is very efficent and gives the user lots of control over their system. What follows will be a guide to how to use each command.
+<br><br>
+<highlight>echo</highlight> lets you repeat any text you want. (example: echo hello world)<br><br>
+<highlight>clear</highlight> lets you clear the terminal off all previous outputs and commands.<br><br>
+<highlight>install</highlight> lets you install packages from the <a href='https://github.com/brodyking/KimmuPackageManager' style='color: white;'>Kimmu Package Manager</a>. (example: install test)<br><br>
+<highlight>changepm</highlight> lets you change the package manager fromt the deafault one. (example: changepm https://github.com/exampleuser/examplerepository)<br><br>
+<highlight>defaultpm</highlight> lets you reset the package manager to the default one.<br><br>
+<highlight>close</highlight> lets you close any window specified, note it is case sensitive! (example: close Terminal)<br><br>
+<highlight>kget</highlight> lets you open any webside link/url and view it without installing any external applets. (example: kget https://www.google.com) you can also type -gb to open the serach engine quickly<br><br>
+<highlight>changebg</highlight> lets you change your background to any image. (example: changebg wallpapers/default.jpg)<br><br>
+<highlight>changefont</highlight> lets you change the system font. (example: changefont Arial)<br><br>
+<highlight>changepswd</highlight> lets you change the system password. (example: changepswd example)<br><br>
+<highlight>config</highlight> lets you change customization options with a GUI interface. (example: config)<br><br>
+<highlight>reset</highlight> lets you reset all files stored in your browser. (example: reset)<br><br>
+<highlight>restart</highlight> lets you restart the system. (example: restart)<br><br>
+<highlight>cf</highlight> lets you create a file on your local storage.(example: cf test)<br><br>
+<highlight>rf</highlight> lets you delete/remove a file on your local storage.(example: rm test)<br><br>
+<highlight>kedit</highlight> lets you edit a file on your local storage. (example: kedit test)<br><br>

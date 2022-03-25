@@ -1,0 +1,94 @@
+@font-face {
+  font-family: Pixel;
+  src: url('fonts/FreePixel.ttf');
+}
+body {
+  font-family: Pixel;
+  background-color: #303c52;
+  color: white;
+  margin: 0px;
+}
+#taskbar {
+  border: 1px solid #252731;
+  height: auto;
+  display: block;
+  text-align: center;
+  background-color: #161619;
+}
+highlight {
+  color: #7aa2f7;
+}
+a {
+  color: #7aa2f7;
+  text-decoration: none;
+}
+a:hover {
+  color: #b695ee;
+  text-decoration: underline;
+}
+.popup {
+  border: 1px solid #252731;
+  width: auto;
+  height: auto;
+  position: absolute;
+  background-color: #151d2e;
+  overflow-y: scroll; /* Add the ability to scroll */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  opacity: 90%;
+}
+#Manager {
+  background-color: #161619;
+  opacity: 100%;
+}
+li:hover {
+  background-color: #08080b;
+}
+green {
+  color: #5cffa5;
+}
+purple {
+  color: #b695ee;
+}
+aqua {
+  color: #50b0d1;
+}
+yellow {
+  color: #a2a20a;
+}
+red {
+  color: #eb4034;
+}
+grey {
+  color: grey;
+}
+terminalout {
+  color: #00948c;
+}
+terminalin {
+  color: #00fff2;
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+::-webkit-scrollbar {
+    display: none;
+}
+.config li:hover {
+  color: white;
+  cursor: url('cursors/hand1.cur'), pointer;
+}
+html {
+  cursor: url('cursors/normal.cur'), pointer;
+}
+a {
+  cursor: url('cursors/hand1.cur'), pointer; 
+}
+li:hover {
+  cursor: url('cursors/hand1.cur'), pointer;
+}
+arial {
+  font-family: Arial, sans-serif;
+}
+td {
+  margin: 10px;
+  padding: 10px;
+}

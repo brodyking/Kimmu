@@ -1,0 +1,25 @@
+<table>
+  <tr style="border: 1px solid white;">
+    <td onclick="changebackground()"><a>Change Background</a></td>
+    <td>--></td>
+    <td>Change the background of your enviorment</td>
+  </tr>
+  <tr style="border: 1px solid white;">
+    <td onclick="changefont()"><a>Change Font</a></td>
+    <td>--></td>
+    <td>Change the default font of the enviorment.</td>
+  </tr>
+  <tr style="border: 1px solid white;">
+    <td onclick="changepswd()"><a>Set Password</a></td>
+    <td>--></td>
+    <td>Create a login password.</td>
+  </tr>
+  <tr style="border: 1px solid white;">
+    <td onclick="reset()"><a>Reset System</a></td>
+    <td>--></td>
+    <td>Reset all system files and settings.</td>
+  </tr>
+  <tr>
+    <td onclick="inputmode()"><a>Return to terminal</a></td>
+  </tr>
+</table>

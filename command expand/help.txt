@@ -1,0 +1,20 @@
+<purple>Kimmu Help Menu</purple>
+<br><br>
+<highlight>echo</highlight> print text to console<br>
+<highlight>clear</highlight> clears the console.<br>
+<highlight>install</highlight> lets you install packages from the KimmuPackageManager<br>
+<highlight>changepm</highlight> lets you change the package manager for install<br>
+<highlight>defaultpm</highlight> lets you reset the package manager to the deafult one<br>
+<highlight>close</highlight> closes a program specified after command (case sensitive)<br>
+<highlight>kget</highlight> is a web browser <br>
+<highlight>changebg</highlight> lets you change your wallpaper<br>
+<highlight>changefont</highlight> lets you change the font<br>
+<highlight>changepswd</highlight> lets you create/change your password<br>
+<highlight>config</highlight> lets you basic settings<br>
+<highlight>reset</highlight> lets you reset all files<br>
+<highlight>restart</highlight> lets you restart the system<br>
+<highlight>cf</highlight> lets you create a file<br>
+<highlight>rf</highlight> lets you delete a file<br>
+<highlight>kedit</highlight> lets you edit a file<br>
+<br><red>NOTE: For a more in-depth help menu, open the Docs applet!</red>
+<br><br>Press q to reset...
